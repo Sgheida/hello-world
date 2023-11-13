@@ -1,3 +1,4 @@
 # hello-world
 STAT 515 Discussion Week 13
-I'm a STAT 515 student 
+#About me 
+I'm a STAT 515 student. My name is Sarah  
